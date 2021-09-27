@@ -1,0 +1,6 @@
+[submodule "react-food-recipe"]
+	path = react-food-recipe
+	url = C:\\Users\\Admin\\Desktop\\DoAnNhomI_ChuyenDeWed1\\react-food-recipe
+[submodule "meal-app"]
+	path = meal-app
+	url = C:\\Users\\Admin\\Desktop\\DoAnNhomI_ChuyenDeWed1\\meal-app
